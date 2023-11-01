@@ -1,7 +1,7 @@
 
 # My Python Projects
 
-In this repository you can find some easy and small projects I made using Python programming language. I'm studying Python in my academic path, my school privides the access to the [Cisco Networking Academy](https://www.netacad.com/courses/programming), a learning platform managed by Cisco Systems that delivers courses in the fields of Cybersecurity, Networking, OS and Computer Programming. These projects come from the Python Essentials course and my teachers asignments.
+In this repository you can find some easy and small projects I made using Python programming language. I'm studying Python in my academic path, my school privides the access to the [Cisco Networking Academy](https://www.netacad.com/courses/programming), a learning platform managed by Cisco Systems that delivers courses in the fields of Cybersecurity, Networking, OS and Computer Programming. These projects come from the [Python Essentials](https://www.netacad.com/courses/programming/pcap-programming-essentials-python) course and my teachers asignments.
 
 | Name | Description |
 | :---- | :---- |
