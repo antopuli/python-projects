@@ -5,8 +5,8 @@ In this repository you can find some easy and small projects I made using Python
 
 | Name | Description |
 | :---- | :---- |
-| [Rows Counter](#rows-counter) | Consists of a function that can count the number of rows contained in a text, without considering the empty ones |
-| [Tic Tac Toe](#cli-tic-tac-toe) | You can play a command line interface based Tic Tac Toe
+| [Rows Counter](#📖-rows-counter) | Consists of a function that can count the number of rows contained in a text, without considering the empty ones |
+| [Tic Tac Toe](#🙅‍♂️-tic-tac-toe) | You can play a command line interface based Tic Tac Toe
 
 In the next paragraphs I will explain to you the programming techniques I used to realize these projects, the concepts, modules and other informations directly viewing the code blocks. 
 
